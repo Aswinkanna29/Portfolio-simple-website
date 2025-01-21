@@ -1,4 +1,5 @@
 Portfolio Website
+
 This repository contains the source code for a Portfolio Website created using HTML and CSS. The website consists of two main pages: a Home Page and a Contact Page. It is designed to showcase the profile, skills, and contact information of a web developer.
 
 Pages Overview
@@ -23,7 +24,7 @@ CSS: For basic styling and layout.
 
 9. How to Use
 Visit the website using the following link:
-Portfolio Website (Replace with your live site URL or GitHub Pages link)
+https://aswinkanna29.github.io/Portfolio-simple-website/index.html
 
 Thank You!
 Thank you for visiting this repository. If you have any suggestions or feedback, feel free to share them! 😊
